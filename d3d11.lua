@@ -1,6 +1,6 @@
 
 local ffi = require 'ffi'
-local com = require 'extern.MicrosoftWindows.com'
+local com = require 'extern.microsoftwindows.com'
 
 ffi.cdef [[
 

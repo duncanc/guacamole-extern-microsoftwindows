@@ -1,8 +1,8 @@
 
 local ffi = require 'ffi'
-local win32 = require 'extern.MicrosoftWindows'
-local com = require 'extern.MicrosoftWindows.com'
-require 'extern.MicrosoftWindows.d3dcommon'
+local win32 = require 'extern.microsoftwindows'
+local com = require 'extern.microsoftwindows.com'
+require 'extern.microsoftwindows.d3dcommon'
 
 ffi.cdef [[
 

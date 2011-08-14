@@ -1,7 +1,7 @@
 
 local ffi = require 'ffi'
-local win32 = require 'extern.MicrosoftWindows'
-local com = require 'extern.MicrosoftWindows.com'
+local win32 = require 'extern.microsoftwindows'
+local com = require 'extern.microsoftwindows.com'
 
 ffi.cdef [[
 

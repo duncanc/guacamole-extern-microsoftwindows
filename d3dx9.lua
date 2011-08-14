@@ -1,7 +1,7 @@
 
-local win32 = require 'extern.MicrosoftWindows'
-local com = require 'extern.MicrosoftWindows.com'
-local d3d9 = require 'extern.MicrosoftWindows.d3d9'
+local win32 = require 'extern.microsoftwindows'
+local com = require 'extern.microsoftwindows.com'
+local d3d9 = require 'extern.microsoftwindows.d3d9'
 local ffi = require 'ffi'
 
 ffi.cdef [[

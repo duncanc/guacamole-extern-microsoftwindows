@@ -1,6 +1,6 @@
 
 local ffi = require 'ffi'
-local win32 = require 'extern.MicrosoftWindows'
+local win32 = require 'extern.microsoftwindows'
 
 local com = {}
 
